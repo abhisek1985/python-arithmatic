@@ -1,6 +1,6 @@
 import unittest
 from arithmatic.arithmatic import (
-    addition, subtraction, multiplication, subtraction, division, floor_division, power )
+    addition, multiplication, subtraction, division, floor_division, power)
 
 
 class TestArithmatic(unittest.TestCase):
